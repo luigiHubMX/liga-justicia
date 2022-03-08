@@ -2,12 +2,6 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
+## Estos mensajes se subiran a GITHUB
 
-## Notas
-Pueden hacer lo que quieran...
-
-### Actualizado desde GITHUB
-Este mensaje se actualizo directamente desde GITHUB
-
-## Hola mundo 
-Esto es un mensaje para probar el ff
+Mensaje para probar comandos de push
